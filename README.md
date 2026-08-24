@@ -125,8 +125,6 @@ I contribute small, well-scoped fixes to projects I actually use and read.
 
 I genuinely love problem solving. I've solved **350+ problems** across **LeetCode and Codeforces**, mostly in **C++**, and I practice consistently to build algorithmic depth. My [`DailyDSA`](https://github.com/gouravj25551-afk/DailyDSA) repo is where I track that habit.
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-JAINGOURAV-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/JAINGOURAV/)
-
 ---
 
 ## GitHub Activity
@@ -164,7 +162,6 @@ I genuinely love problem solving. I've solved **350+ problems** across **LeetCod
 
 - **Portfolio** — [gouravjain.me](https://gouravjain.me)
 - **GitHub** — [@gouravj25551-afk](https://github.com/gouravj25551-afk)
-- **LeetCode** — [JAINGOURAV](https://leetcode.com/u/JAINGOURAV/)
 - **X / Twitter** — [@Gourav_jain_7](https://x.com/Gourav_jain_7)
 - **Email** — [gourav.j25551@nst.rishihood.edu.in](mailto:gourav.j25551@nst.rishihood.edu.in)
 <!-- LinkedIn — add link here once you share it -->
