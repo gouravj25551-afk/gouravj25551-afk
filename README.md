@@ -123,17 +123,9 @@ I contribute small, well-scoped fixes to projects I actually use and read.
 
 ## DSA / Problem Solving
 
-I practice consistently to build algorithmic depth, mostly in **C++**, across **LeetCode, Codeforces and CodeChef**. My [`DailyDSA`](https://github.com/gouravj25551-afk/DailyDSA) repo is where I track that habit.
+I genuinely love problem solving. I've solved **350+ problems** across **LeetCode and Codeforces**, mostly in **C++**, and I practice consistently to build algorithmic depth. My [`DailyDSA`](https://github.com/gouravj25551-afk/DailyDSA) repo is where I track that habit.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-JAINGOURAV-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/JAINGOURAV/)
-
-**On LeetCode** ([JAINGOURAV](https://leetcode.com/u/JAINGOURAV/)):
-
-| Solved | Easy | Medium | Hard | Contests | Rating |
-|:------:|:----:|:------:|:----:|:--------:|:------:|
-| **229** | 131 | 89 | 9 | 3 | ~1504 |
-
-<sub>Stats current as of Aug 2026 — check the profile for the latest.</sub>
 
 ---
 
